@@ -19,3 +19,4 @@ Welcome to my GitHub. You'll find me contributing to cloud-native projects here.
 1. [AWS Solutions Architect](https://www.credly.com/badges/a2d0a521-dab3-498d-b114-1a068d581847/public_url)
 2. [Kubernetes Cloud Native Associate](https://www.credly.com/badges/a90f4e53-e5a1-47a8-8fc3-dda375c296cc)
 3. [Cisco Certified Network Associate](https://www.credly.com/badges/9f0c11c0-65c3-4436-8e8e-18e38c1a65e9)
+4. [Prometheus Certified Associate](https://www.credly.com/badges/3fca2c3f-10ca-4a43-9ada-a29adda77cd2/public_url)
