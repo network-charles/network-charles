@@ -10,6 +10,7 @@ Welcome to my GitHub. You'll find me contributing to cloud-native projects here.
 3. [A project I did for DaoCloud](https://github.com/kubernetes-sigs/kwok/issues/1063)
 4. [A project I did for Wikimedia Foundation](https://phabricator.wikimedia.org/T358605)
 5. [Utilizing Coverage AI Agents for Better Unit Tests](https://dev.to/charlesuneze/utilizing-coverage-ai-agents-for-better-unit-tests-436c)
+6. [How to use network automation to ease cloud integration](https://www.techtarget.com/searchnetworking/tip/How-to-use-network-automation-to-ease-cloud-integration)
 
 ### 🎤 Speaking
 
