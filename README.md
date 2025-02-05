@@ -15,6 +15,7 @@ Welcome to my GitHub. You'll find me contributing to cloud-native projects here.
 ### 🎤 Speaking
 
 1.  [Open Source Stories: The Documentary (sponsored by GitHub)](https://www.youtube.com/playlist?list=PLmbXeEhgz7-7JZmnY8NmjXU31Q7BjbpzE)
+2.  [CNCF Abuja: From Pull Request Wrangler (Shadow) to LFX Mentee](https://github.com/network-charles/talk-slides/tree/main/01.%20CNCF%20Abuja)
 
 ### 🥇 Certifications
 1. [AWS Solutions Architect](https://www.credly.com/badges/a2d0a521-dab3-498d-b114-1a068d581847/public_url)
