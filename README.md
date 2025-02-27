@@ -1,6 +1,6 @@
 ## Hi there 👋🏿
 
-Welcome to my GitHub. You'll find me contributing to cloud-native projects here.
+Welcome to my GitHub!
 
 ##  My Work as a DevRel
 ### 📝 Technical Writing
