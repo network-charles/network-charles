@@ -11,6 +11,7 @@ Welcome to my GitHub!
 4. [A project I did for Wikimedia Foundation](https://phabricator.wikimedia.org/T358605)
 5. [Utilizing Coverage AI Agents for Better Unit Tests](https://dev.to/charlesuneze/utilizing-coverage-ai-agents-for-better-unit-tests-436c)
 6. [How to use network automation to ease cloud integration](https://www.techtarget.com/searchnetworking/tip/How-to-use-network-automation-to-ease-cloud-integration)
+7. [An introduction to network automation with Ansible](https://www.techtarget.com/searchnetworking/tip/An-introduction-to-network-automation-with-Ansible)
 
 ### 🎤 Speaking
 
@@ -22,3 +23,5 @@ Welcome to my GitHub!
 2. [Kubernetes Cloud Native Associate](https://www.credly.com/badges/a90f4e53-e5a1-47a8-8fc3-dda375c296cc)
 3. [Cisco Certified Network Associate](https://www.credly.com/badges/9f0c11c0-65c3-4436-8e8e-18e38c1a65e9)
 4. [Prometheus Certified Associate](https://www.credly.com/badges/3fca2c3f-10ca-4a43-9ada-a29adda77cd2/public_url)
+
+![network-charles's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=network-charles&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
