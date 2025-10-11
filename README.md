@@ -12,6 +12,7 @@ Welcome to my GitHub!
 5. [Utilizing Coverage AI Agents for Better Unit Tests](https://dev.to/charlesuneze/utilizing-coverage-ai-agents-for-better-unit-tests-436c)
 6. [How to use network automation to ease cloud integration](https://www.techtarget.com/searchnetworking/tip/How-to-use-network-automation-to-ease-cloud-integration)
 7. [An introduction to network automation with Ansible](https://www.techtarget.com/searchnetworking/tip/An-introduction-to-network-automation-with-Ansible)
+8. [How to build a network-aware CI/CD pipeline with GitLab and Ansible](https://www.techtarget.com/searchnetworking/tutorial/How-to-build-a-network-aware-CI-CD-pipeline-with-GitLab-and-Ansible)
 
 ### 🎤 Speaking
 
