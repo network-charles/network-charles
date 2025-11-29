@@ -24,5 +24,3 @@ Welcome to my GitHub!
 2. [Kubernetes Cloud Native Associate](https://www.credly.com/badges/a90f4e53-e5a1-47a8-8fc3-dda375c296cc)
 3. [Cisco Certified Network Associate](https://www.credly.com/badges/9f0c11c0-65c3-4436-8e8e-18e38c1a65e9)
 4. [Prometheus Certified Associate](https://www.credly.com/badges/3fca2c3f-10ca-4a43-9ada-a29adda77cd2/public_url)
-
-![network-charles's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=network-charles&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
